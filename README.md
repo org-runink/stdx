@@ -1,3 +1,6 @@
+> **Moved.** This module now lives at **[github.com/org-runink/eddy](https://github.com/org-runink/eddy)**.
+> The code is unchanged; only the import path differs. This repository is archived.
+
 # stdx
 
 **Standard library only.** Three small Go packages — forecast it, cache it, or start it early.
